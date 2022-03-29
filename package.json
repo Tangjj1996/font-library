@@ -1,0 +1,21 @@
+{
+  "name": "font-library",
+  "version": "1.0.0",
+  "description": "> a collection of font",
+  "main": "dist/SourceHanSansCN-Normal-normal-es.js",
+  "browser": "dist/SourceHanSansCN-Normal-normal-umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tangjj1996/font-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tangjj1996/font-library/issues"
+  },
+  "homepage": "https://github.com/Tangjj1996/font-library#readme"
+}
