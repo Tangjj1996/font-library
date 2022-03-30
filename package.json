@@ -1,5 +1,5 @@
 {
-  "name": "font-library",
+  "name": "font-library-private",
   "version": "1.0.0",
   "description": "> a collection of font",
   "main": "dist/SourceHanSansCN-Normal-normal-es.js",
